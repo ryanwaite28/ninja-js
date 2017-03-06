@@ -3,7 +3,7 @@
 __________________________________________
 
 This Is A Framework That I'm Creating. It Will Combine The Power Of
-BackBone's Models And Collections Architecture While Keeping Angilar's
+BackBone's Models And Collections Architecture While Keeping Angular's
 Simplistic Data-Binding Syntax And Creative Design Features. Unlike BackBone,
 Ninja Will Have No Dependencies On Any Other JS Library/Framework.
 
